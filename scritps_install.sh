@@ -38,6 +38,9 @@ systemctl enable chrony
 #Установка GIT
 sudo apt install git
 
+#Установка VIM
+sudo apt install vim
+
 
 
 

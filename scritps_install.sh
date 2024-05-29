@@ -2,8 +2,6 @@
 
 hostaname
 
-sudo su
-
 #Установка подстевки текста
 sudo apt install grc
 
